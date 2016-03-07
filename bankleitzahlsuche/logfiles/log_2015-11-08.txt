@@ -1,0 +1,5 @@
+[2015-11-08 14:42:10] - result was found in Database 
+[2015-11-08 14:55:20] - result was found in Database 
+[2015-11-08 15:38:26] - result was found in Database 
+[2015-11-08 15:43:48] - could not find entries in Database. New Entry of bank-code must be created 
+[2015-11-08 15:43:48] - Webservice called successfully.A new entry was created for 50863513 - Volksbank Odenwald

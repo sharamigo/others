@@ -1,0 +1,19 @@
+[2015-11-07 15:35:45] - result was found in Database
+[2015-11-07 15:37:40] - could not find entries in Database. New Entry of bank-code must be created
+[2015-11-07 15:37:41] - Webservice called successfully.A new entry was created for 37040044 - Commerzbank[2015-11-07 15:45:18] - could not find entries in Database. New Entry of bank-code must be created 
+[2015-11-07 15:45:19] - Webservice called successfully.A new entry was created for 37050299 - Kreissparkasse Köln
+[2015-11-07 15:47:52] - could not find entries in Database. New Entry of bank-code must be created 
+[2015-11-07 15:47:52] - Webservice called successfully.A new entry was created for 37060590 - Sparda-Bank West
+[2015-11-07 15:49:08] - result was found in Database 
+[2015-11-07 15:49:57] - result was found in Database 
+[2015-11-07 15:52:56] - could not find entries in Database. New Entry of bank-code must be created 
+[2015-11-07 15:52:56] - Webservice called successfully.A new entry was created for 37060193 - Pax-Bank
+[2015-11-07 15:54:54] - could not find entries in Database. New Entry of bank-code must be created 
+[2015-11-07 15:54:55] - Webservice called successfully.A new entry was created for 37062124 - Bensberger Bank
+[2015-11-07 15:55:18] - could not find entries in Database. New Entry of bank-code must be created 
+[2015-11-07 15:55:18] - Webservice called successfully.A new entry was created for 37062365 - Raiffeisenbank Frechen-Hürth
+[2015-11-07 15:58:34] - result was found in Database 
+[2015-11-07 15:59:05] - result was found in Database 
+[2015-11-07 15:59:58] - result was found in Database 
+[2015-11-07 16:00:20] - result was found in Database 
+[2015-11-07 16:00:58] - result was found in Database 
