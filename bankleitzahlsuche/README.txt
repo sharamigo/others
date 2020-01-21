@@ -28,11 +28,3 @@ The result will be displayed in a table.
 Note:
 All actions are logged in a txt-file. You can find the log-files in the folder 'logfiles/'
 sorted by date.
-
-expenditures of time:
-3 h coding and planning class.search.php + config.inc.php (main functionality)
-1 h designing and creating database-table
-2 h autocompletion with javascript (autocomplete.js) and php (func.autocomplete.php) 
-2 h css and basic improvements
-
-about 8h estimated time
